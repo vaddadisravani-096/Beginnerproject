@@ -1,5 +1,4 @@
 # Beginnerproject
-projectwork
 This project is a simple Todo List Application designed to help users organize tasks efficiently. It provides a user-friendly interface to add, remove, and manage tasks with ease.
 
 # FEATURES:-
